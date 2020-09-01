@@ -3,6 +3,8 @@
 
 I am passionate in useing data to solve problems
 
+
+[Visual](https://github.com/jameshho/James_Portfolio/blob/master/Visual/Visualization)
 ## Contact Me
 | Contact Method |  |
 | --- | --- |
