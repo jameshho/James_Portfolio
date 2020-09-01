@@ -4,7 +4,7 @@
 I am passionate in useing data to solve problems
 
 
-[Visual](https://github.com/jameshho/James_Portfolio/blob/master/Visual/Visualization)
+[Visual](https://github.com/jameshho/James_Portfolio/tree/master/Visual)
 ## Contact Me
 | Contact Method |  |
 | --- | --- |
